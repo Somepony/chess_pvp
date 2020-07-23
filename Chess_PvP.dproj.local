@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.661,=D:\System\Docs\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.557,=D:\System\Docs\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.481,=D:\System\Docs\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,=D:\System\Docs\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,=D:\System\Docs\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,=D:\System\Docs\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,=D:\System\Docs\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.224,=D:\System\Docs\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,D:\Project\chess_pvp\Unit2.dfm=D:\Project\chess_pvp\ReplacePawn.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.445,D:\Project\chess_pvp\MainUnit.dfm=D:\System\Docs\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,D:\Project\chess_pvp\ReplacePawn.pas=D:\Project\chess_pvp\ReplacePawnUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,D:\Project\chess_pvp\ReplacePawn.dfm=D:\Project\chess_pvp\ReplacePawnUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,D:\Project\chess_pvp\Unit2.pas=D:\Project\chess_pvp\ReplacePawn.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,=D:\Project\chess_pvp\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.445,D:\Project\chess_pvp\MainUnit.pas=D:\System\Docs\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,D:\Project\chess_pvp\Chess_PvP.dproj=D:\System\Docs\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
